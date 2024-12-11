@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyPU8xauYT5Nx3MUsOlnvmwn",
+      "authorship_tag": "ABX9TyMzy6albvjPVLtRW3THdCPI",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -37,15 +37,6 @@
         "import pandas as pd\n",
         "import numpy as np"
       ]
-    },
-    {
-      "cell_type": "markdown",
-      "source": [
-        "# New Section"
-      ],
-      "metadata": {
-        "id": "r8X2gHC3CtCn"
-      }
     },
     {
       "cell_type": "code",
@@ -6231,15 +6222,7 @@
     },
     {
       "cell_type": "code",
-      "source": [
-        "def execute_query(query, conn):\n",
-        "    try:\n",
-        "        result = pd.read_sql_query(query, conn)\n",
-        "        return result\n",
-        "    except Exception as e:\n",
-        "        st.error(f\"Error executing query: {e}\")\n",
-        "        return pd.DataFrame()"
-      ],
+      "source": [],
       "metadata": {
         "id": "S-3u9Z-kLr78"
       },
