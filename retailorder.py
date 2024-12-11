@@ -66,7 +66,7 @@
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
-          "height": 635
+          "height": 424
         },
         "id": "jBkvLcx75Lmd",
         "outputId": "8279dc4e-ba70-47b8-f6be-e54c56e5178f"
@@ -694,7 +694,7 @@
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
-          "height": 330
+          "height": 206
         },
         "id": "js_szKsT6Qte",
         "outputId": "d7f1a9bc-7eb0-4258-8505-e6c622bc489a"
@@ -1100,7 +1100,7 @@
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
-          "height": 635
+          "height": 424
         },
         "id": "o4eM6trW6UvD",
         "outputId": "caf4ae93-376f-43b4-f6e1-5dab82e206ad"
@@ -1831,7 +1831,7 @@
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
-          "height": 617
+          "height": 597
         },
         "id": "Nf8G3YSs7M9-",
         "outputId": "6260801c-0b66-4885-fcf3-385e260cf239"
@@ -2458,7 +2458,7 @@
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
-          "height": 617
+          "height": 597
         },
         "id": "l2TCZXCC7Wfz",
         "outputId": "95ad2fec-a33c-4491-9110-807d339e1f71"
@@ -3108,7 +3108,7 @@
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
-          "height": 617
+          "height": 424
         },
         "id": "nJuXb_007wOt",
         "outputId": "48bca085-b1d0-44af-917b-b5059288fbbb"
@@ -3641,7 +3641,7 @@
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
-          "height": 313
+          "height": 293
         },
         "id": "sqgo1bJJ8Gfp",
         "outputId": "17eb1fc5-f7b3-4185-ad70-3156dbd15a80"
@@ -6408,77 +6408,10 @@
         "  st.write(\"Please select a query to view the dashboard.\")"
       ],
       "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "id": "1CcaCC7kLvjI",
-        "outputId": "2aa8749f-2587-4581-ba2c-9f2daa19eefe"
+        "id": "1CcaCC7kLvjI"
       },
-      "execution_count": 141,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stderr",
-          "text": [
-            "2024-12-11 05:56:47.140 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.141 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.145 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.147 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.149 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.151 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.153 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.154 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.158 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.160 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.189 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.192 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.195 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.197 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.211 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.212 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.216 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.218 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.230 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.231 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.235 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.238 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.248 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.249 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.254 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.257 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.267 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.268 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.273 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.276 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.287 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.288 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.293 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.294 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.305 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.307 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.311 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.312 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.324 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.326 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.329 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.331 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.345 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.346 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.350 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.352 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.368 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.369 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.372 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.374 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.376 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.378 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.380 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.382 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.418 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-12-11 05:56:47.420 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n"
-          ]
-        }
-      ]
+      "execution_count": null,
+      "outputs": []
     }
   ]
 }
