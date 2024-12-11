@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyMzy6albvjPVLtRW3THdCPI",
+      "authorship_tag": "ABX9TyMFqkcUB4Js28zxm1Gueiw/",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -28,7 +28,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": null,
       "metadata": {
         "id": "CLQoCIOC4yRH"
       },
@@ -46,7 +46,7 @@
       "metadata": {
         "id": "ZXiI0Ze45EQi"
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -62,7 +62,7 @@
         "id": "jBkvLcx75Lmd",
         "outputId": "8279dc4e-ba70-47b8-f6be-e54c56e5178f"
       },
-      "execution_count": 3,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -663,7 +663,7 @@
         "id": "iqTy77QP5OX5",
         "outputId": "2701c773-ca68-44c3-b7de-80ff9989f42b"
       },
-      "execution_count": 4,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -690,7 +690,7 @@
         "id": "js_szKsT6Qte",
         "outputId": "d7f1a9bc-7eb0-4258-8505-e6c622bc489a"
       },
-      "execution_count": 5,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1096,7 +1096,7 @@
         "id": "o4eM6trW6UvD",
         "outputId": "caf4ae93-376f-43b4-f6e1-5dab82e206ad"
       },
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1641,7 +1641,7 @@
         "id": "ZzHjucrE6uEL",
         "outputId": "7d2e1b43-116e-4ebd-c576-09c1d7e48c6e"
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1673,7 +1673,7 @@
         "id": "cZYwennp60cT",
         "outputId": "9cef1b58-b9ad-416b-e38d-190531b3dcae"
       },
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1704,7 +1704,7 @@
         "id": "PZ3zv1dH66fr",
         "outputId": "3ab01195-8953-4e04-aab3-de254aa27cff"
       },
-      "execution_count": 9,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1810,7 +1810,7 @@
       "metadata": {
         "id": "7iEct-vT7CTm"
       },
-      "execution_count": 10,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -1827,7 +1827,7 @@
         "id": "Nf8G3YSs7M9-",
         "outputId": "6260801c-0b66-4885-fcf3-385e260cf239"
       },
-      "execution_count": 11,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -2454,7 +2454,7 @@
         "id": "l2TCZXCC7Wfz",
         "outputId": "95ad2fec-a33c-4491-9110-807d339e1f71"
       },
-      "execution_count": 12,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -3088,7 +3088,7 @@
       "metadata": {
         "id": "ZzqmiuVi7jK5"
       },
-      "execution_count": 13,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -3104,7 +3104,7 @@
         "id": "nJuXb_007wOt",
         "outputId": "48bca085-b1d0-44af-917b-b5059288fbbb"
       },
-      "execution_count": 14,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -3637,7 +3637,7 @@
         "id": "sqgo1bJJ8Gfp",
         "outputId": "17eb1fc5-f7b3-4185-ad70-3156dbd15a80"
       },
-      "execution_count": 15,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -4060,7 +4060,7 @@
         "id": "LYaFtQg28KQE",
         "outputId": "0aa422a0-4474-43f4-faa6-3fcdfacf9a3c"
       },
-      "execution_count": 16,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -4086,7 +4086,7 @@
       "metadata": {
         "id": "YiEHnOS10Pqs"
       },
-      "execution_count": 17,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -4097,7 +4097,7 @@
       "metadata": {
         "id": "IRJ9nBT30ynv"
       },
-      "execution_count": 18,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -4108,7 +4108,7 @@
       "metadata": {
         "id": "3zDgvWBfUlRO"
       },
-      "execution_count": 19,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -4137,7 +4137,7 @@
       "metadata": {
         "id": "0Zatwyr01D8o"
       },
-      "execution_count": 20,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -4152,7 +4152,7 @@
         "id": "D6PFZUPCU9b_",
         "outputId": "ee88fbef-f479-4d9b-9307-ec38a6be7058"
       },
-      "execution_count": 21,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -4179,7 +4179,7 @@
         "id": "WLdPTZN5VEi2",
         "outputId": "29ab188a-84cc-47b5-bee9-d033b7a915e5"
       },
-      "execution_count": 22,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4203,7 +4203,7 @@
         "id": "D0QyiUsHWWt-",
         "outputId": "47669064-664b-4ad1-e7ee-6e513430b019"
       },
-      "execution_count": 23,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4281,7 +4281,7 @@
         "id": "vVqbHFPNZ-zj",
         "outputId": "8e9befd5-4bec-4d56-e8b0-fbd293d9ff24"
       },
-      "execution_count": 24,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4309,7 +4309,7 @@
         "id": "lWU0M5f-cgxW",
         "outputId": "d6efa07f-f66c-4b97-94c5-228c83944770"
       },
-      "execution_count": 25,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4330,7 +4330,7 @@
       "metadata": {
         "id": "IMYAF0knc5Zu"
       },
-      "execution_count": 26,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -4346,7 +4346,7 @@
         "id": "ScC9U-NUdAZb",
         "outputId": "3970a733-ac23-4fe3-ab97-c74a11217b41"
       },
-      "execution_count": 27,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4381,7 +4381,7 @@
         "id": "j1zklULlstiC",
         "outputId": "14346dd5-b55b-4089-e07c-67d9a1b41af9"
       },
-      "execution_count": 28,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4416,7 +4416,7 @@
         "id": "r8uLmjuA_01M",
         "outputId": "9b4e4cf9-2e95-44c6-8cc8-7e5dd67133b7"
       },
-      "execution_count": 29,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4446,7 +4446,7 @@
       "metadata": {
         "id": "zNr8kXNU__eC"
       },
-      "execution_count": 30,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -4462,7 +4462,7 @@
         "id": "PW10wkO8AX2H",
         "outputId": "cb8acfdb-e46f-4856-e8b5-ae397e48d18f"
       },
-      "execution_count": 31,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4489,7 +4489,7 @@
         "id": "WascMbthAfSw",
         "outputId": "653afa85-2818-449f-87ec-9c99fb68c4ef"
       },
-      "execution_count": 32,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4515,7 +4515,7 @@
         "id": "F6FvrN3fBlWU",
         "outputId": "4c2593de-de59-40d6-f9b6-f1d5359f23dc"
       },
-      "execution_count": 33,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4568,7 +4568,7 @@
       "metadata": {
         "id": "bVTdLI_5B7df"
       },
-      "execution_count": 34,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -4584,7 +4584,7 @@
         "id": "lq4fTiKXCD9d",
         "outputId": "502ff7ee-2821-47bc-fb6a-3d5932be05d2"
       },
-      "execution_count": 35,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4633,7 +4633,7 @@
         "id": "T7aJ3Ew0CyIE",
         "outputId": "b3853b2f-4bb9-4534-dbcd-f066ea597904"
       },
-      "execution_count": 36,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4672,7 +4672,7 @@
       "metadata": {
         "id": "MACJqtD1C-pi"
       },
-      "execution_count": 37,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -4688,7 +4688,7 @@
         "id": "SSD2rzKODzyX",
         "outputId": "34d2193b-7883-43dc-ecdb-90e0e4381f41"
       },
-      "execution_count": 38,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4726,7 +4726,7 @@
       "metadata": {
         "id": "5XaMRyWmEJDk"
       },
-      "execution_count": 39,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -4742,7 +4742,7 @@
         "id": "UeQmmOT5EZQ0",
         "outputId": "8e5ddf65-82e4-4445-ba19-d8053a4869bf"
       },
-      "execution_count": 40,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4784,7 +4784,7 @@
       "metadata": {
         "id": "yY0f7YILEgO4"
       },
-      "execution_count": 41,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -4800,7 +4800,7 @@
         "id": "LC2zHYLbEvri",
         "outputId": "0a431c85-4665-4911-954b-b73368a31751"
       },
-      "execution_count": 42,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4837,7 +4837,7 @@
       "metadata": {
         "id": "NUPa4u46E2M8"
       },
-      "execution_count": 43,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -4853,7 +4853,7 @@
         "id": "hC7fi_AkFM7j",
         "outputId": "cf0cb2f4-8b34-433d-9df6-7886af19a8f5"
       },
-      "execution_count": 44,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4892,7 +4892,7 @@
         "id": "UFftFUNVRzld",
         "outputId": "b3f74cd7-f4f8-4d4e-b4d0-41672bc22d69"
       },
-      "execution_count": 45,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4919,7 +4919,7 @@
       "metadata": {
         "id": "FMZNbMNIG1Vn"
       },
-      "execution_count": 46,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -4935,7 +4935,7 @@
         "id": "eK-4VLIrG3ic",
         "outputId": "e5961cfb-54eb-4e0c-b915-a12e81a5fdc1"
       },
-      "execution_count": 47,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4962,7 +4962,7 @@
         "id": "O2IbLh8_KL9d",
         "outputId": "802279ab-87d4-45d9-96be-3d1774fbdb62"
       },
-      "execution_count": 48,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -4976,12 +4976,45 @@
     {
       "cell_type": "code",
       "source": [
+        "!pip install matplotlib"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "cVOCzt7poI7p",
+        "outputId": "209eec5c-68ae-4421-b8ed-6bc4583f776b"
+      },
+      "execution_count": 143,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Requirement already satisfied: matplotlib in /usr/local/lib/python3.10/dist-packages (3.8.0)\n",
+            "Requirement already satisfied: contourpy>=1.0.1 in /usr/local/lib/python3.10/dist-packages (from matplotlib) (1.3.1)\n",
+            "Requirement already satisfied: cycler>=0.10 in /usr/local/lib/python3.10/dist-packages (from matplotlib) (0.12.1)\n",
+            "Requirement already satisfied: fonttools>=4.22.0 in /usr/local/lib/python3.10/dist-packages (from matplotlib) (4.55.1)\n",
+            "Requirement already satisfied: kiwisolver>=1.0.1 in /usr/local/lib/python3.10/dist-packages (from matplotlib) (1.4.7)\n",
+            "Requirement already satisfied: numpy<2,>=1.21 in /usr/local/lib/python3.10/dist-packages (from matplotlib) (1.26.4)\n",
+            "Requirement already satisfied: packaging>=20.0 in /usr/local/lib/python3.10/dist-packages (from matplotlib) (24.2)\n",
+            "Requirement already satisfied: pillow>=6.2.0 in /usr/local/lib/python3.10/dist-packages (from matplotlib) (11.0.0)\n",
+            "Requirement already satisfied: pyparsing>=2.3.1 in /usr/local/lib/python3.10/dist-packages (from matplotlib) (3.2.0)\n",
+            "Requirement already satisfied: python-dateutil>=2.7 in /usr/local/lib/python3.10/dist-packages (from matplotlib) (2.8.2)\n",
+            "Requirement already satisfied: six>=1.5 in /usr/local/lib/python3.10/dist-packages (from python-dateutil>=2.7->matplotlib) (1.16.0)\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
         "import matplotlib.pyplot as plt"
       ],
       "metadata": {
         "id": "3RF4Ay0DDI-Z"
       },
-      "execution_count": 49,
+      "execution_count": 142,
       "outputs": []
     },
     {
@@ -4997,7 +5030,7 @@
         "id": "-BgtfKIZKTRu",
         "outputId": "d47d7a29-db94-40af-a155-97ac6a665f2b"
       },
-      "execution_count": 50,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -5038,7 +5071,7 @@
         "id": "Lz4PEXBVI_BU",
         "outputId": "7586c52d-891f-4557-d90b-91a69cae3948"
       },
-      "execution_count": 51,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -5073,7 +5106,7 @@
         "id": "zsWOlIHPaZyd",
         "outputId": "f8f06b4a-d186-47ae-ac05-60a1c9df3878"
       },
-      "execution_count": 52,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5123,7 +5156,7 @@
         "id": "rC6c2TZMOHIl",
         "outputId": "0dbc7454-bebe-44eb-9502-a97b192d0162"
       },
-      "execution_count": 53,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5178,7 +5211,7 @@
         "id": "1PTZfCxaObFW",
         "outputId": "e00b9fbe-35cb-4bd1-8855-288447f37b9d"
       },
-      "execution_count": 54,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5228,7 +5261,7 @@
         "id": "6diyNgq0QPgi",
         "outputId": "8f9a33c8-701a-4ab4-c189-32afd9401dc7"
       },
-      "execution_count": 55,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5271,7 +5304,7 @@
         "id": "vTOh3F-VQrP6",
         "outputId": "75b018e0-5d05-4a86-bf79-ca6b5f3eaf30"
       },
-      "execution_count": 56,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5316,7 +5349,7 @@
         "id": "WLS8e2OUSQBA",
         "outputId": "8e114736-fd13-4ec6-e990-795ee1cede4e"
       },
-      "execution_count": 57,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5360,7 +5393,7 @@
         "id": "h7tYPqkrTRmY",
         "outputId": "b0d8ffaa-401e-415b-9079-4632148515d6"
       },
-      "execution_count": 58,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5410,7 +5443,7 @@
         "id": "SrUBuOqgSPiH",
         "outputId": "392152dd-4dbc-4c4f-977f-d2ed7fee05c3"
       },
-      "execution_count": 59,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5454,7 +5487,7 @@
         "id": "XyqqQ3ovUSjR",
         "outputId": "5d3d5e44-9d6e-40b6-fa53-49d29a739b67"
       },
-      "execution_count": 60,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5500,7 +5533,7 @@
         "id": "iHYoacg4Vz-9",
         "outputId": "9526cdf5-ec2f-4bdb-b3c9-740282da1629"
       },
-      "execution_count": 61,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5543,7 +5576,7 @@
         "id": "PzGz3SHVWaJ0",
         "outputId": "23d8abb2-7e45-484c-d189-cc1349524277"
       },
-      "execution_count": 62,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5593,7 +5626,7 @@
         "id": "cXjmh80p5K1l",
         "outputId": "64d3ab14-4f70-4d98-eb14-92b60e389d4c"
       },
-      "execution_count": 63,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5689,7 +5722,7 @@
         },
         "outputId": "2fad4eee-3e19-4857-bfa4-74fe804fac29"
       },
-      "execution_count": 64,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5741,7 +5774,7 @@
         "id": "5DdUuuomquCa",
         "outputId": "dbc24c6a-9432-4e64-e6b5-1294b66fbbec"
       },
-      "execution_count": 65,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5789,7 +5822,7 @@
         "id": "S8lnQjrir3iP",
         "outputId": "7fc0ae6e-c149-4001-ee49-38685eaf4675"
       },
-      "execution_count": 66,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5834,7 +5867,7 @@
         "id": "KhpkSh6Asg93",
         "outputId": "ca48e710-4f14-452f-84bf-1fc50501c5a7"
       },
-      "execution_count": 67,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5879,7 +5912,7 @@
         "id": "_ljSt9pVs-z8",
         "outputId": "8a269c80-eb3e-41c4-8685-78d1e832f600"
       },
-      "execution_count": 68,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5925,7 +5958,7 @@
         "id": "Q2iJNWaotpQK",
         "outputId": "6cfcb343-c7ba-4c7f-f75e-3793243f30a8"
       },
-      "execution_count": 69,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -5972,7 +6005,7 @@
         "id": "MwjniQAUuyn9",
         "outputId": "7ebb781b-9517-4b6b-f4e0-458604f5c403"
       },
-      "execution_count": 70,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -6018,7 +6051,7 @@
         "id": "dHXtUy8-vXjZ",
         "outputId": "59693dc2-a444-4f8c-c590-1bd00a1ffd46"
       },
-      "execution_count": 71,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -6076,7 +6109,7 @@
         "id": "Ex14VV4WwbCv",
         "outputId": "e9454108-4a6c-472d-9bb9-83965ef998ed"
       },
-      "execution_count": 72,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -6103,7 +6136,7 @@
         "id": "OthKuN6bxnFw",
         "outputId": "05dd8e34-b5ff-47bf-e566-b57d9e55c261"
       },
-      "execution_count": 98,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -6164,7 +6197,7 @@
       "metadata": {
         "id": "O-qgoNvExs1U"
       },
-      "execution_count": 74,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -6178,7 +6211,7 @@
       "metadata": {
         "id": "duL5ZMyeG2BK"
       },
-      "execution_count": 75,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -6194,7 +6227,7 @@
         "id": "mN6OGUmsHRcG",
         "outputId": "cdbce6e1-6542-44ba-c7a3-c854fa7e49c1"
       },
-      "execution_count": 76,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -6217,7 +6250,7 @@
       "metadata": {
         "id": "QW9E4YyhIM-m"
       },
-      "execution_count": 77,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -6226,7 +6259,7 @@
       "metadata": {
         "id": "S-3u9Z-kLr78"
       },
-      "execution_count": 81,
+      "execution_count": null,
       "outputs": []
     },
     {
