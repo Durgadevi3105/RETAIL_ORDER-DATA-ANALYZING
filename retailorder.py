@@ -6410,7 +6410,7 @@
       "metadata": {
         "id": "1CcaCC7kLvjI"
       },
-      "execution_count": null,
+      "execution_count": None
       "outputs": []
     }
   ]
