@@ -3104,7 +3104,7 @@
       "metadata": {
         "id": "ZzqmiuVi7jK5"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -3120,7 +3120,7 @@
         "id": "nJuXb_007wOt",
         "outputId": "aa151d88-5100-446e-8583-478c0b64d98f"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "execute_result",
