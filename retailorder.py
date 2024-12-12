@@ -78,7 +78,7 @@
         "id": "jBkvLcx75Lmd",
         "outputId": "3c3093d6-4a65-4239-9401-2574c3a8f43b"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "execute_result",
