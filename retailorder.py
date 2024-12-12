@@ -3653,7 +3653,7 @@
         "id": "sqgo1bJJ8Gfp",
         "outputId": "9a9abde4-04e2-4397-8789-386a36bbc425"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "execute_result",
