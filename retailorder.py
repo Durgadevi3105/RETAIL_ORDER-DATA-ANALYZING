@@ -2470,7 +2470,7 @@
         "id": "l2TCZXCC7Wfz",
         "outputId": "e652b7f3-774d-44ed-de61-c4de343a89aa"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "execute_result",
