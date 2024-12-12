@@ -706,7 +706,7 @@
         "id": "js_szKsT6Qte",
         "outputId": "3f0988fa-9034-4fc7-db4a-aef35e61f56a"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "execute_result",
