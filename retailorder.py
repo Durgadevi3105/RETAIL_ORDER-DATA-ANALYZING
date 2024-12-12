@@ -4076,7 +4076,7 @@
         "id": "LYaFtQg28KQE",
         "outputId": "58378ca0-fc01-49d3-96af-81b60b525625"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -4102,7 +4102,7 @@
       "metadata": {
         "id": "YiEHnOS10Pqs"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -4113,7 +4113,7 @@
       "metadata": {
         "id": "IRJ9nBT30ynv"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -4124,7 +4124,7 @@
       "metadata": {
         "id": "3zDgvWBfUlRO"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -4153,7 +4153,7 @@
       "metadata": {
         "id": "0Zatwyr01D8o"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -4168,7 +4168,7 @@
         "id": "D6PFZUPCU9b_",
         "outputId": "1f74f649-c1f8-444b-a6bf-8df6d7ac56a8"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -4195,7 +4195,7 @@
         "id": "WLdPTZN5VEi2",
         "outputId": "0a76a156-bae5-46f3-c09c-a0704dd813fd"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -4219,7 +4219,7 @@
         "id": "D0QyiUsHWWt-",
         "outputId": "036881e8-9410-46db-d388-a5f47ebe5000"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -4297,7 +4297,7 @@
         "id": "vVqbHFPNZ-zj",
         "outputId": "8c97239e-22a2-4b4f-9ab4-11d752ae1c41"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -4346,7 +4346,7 @@
       "metadata": {
         "id": "IMYAF0knc5Zu"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -4362,7 +4362,7 @@
         "id": "ScC9U-NUdAZb",
         "outputId": "c83adc37-8f46-475e-9239-842b83312082"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -4397,7 +4397,7 @@
         "id": "j1zklULlstiC",
         "outputId": "1717bfa5-d6aa-4649-8e35-f586b8af8b1b"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -4432,7 +4432,7 @@
         "id": "r8uLmjuA_01M",
         "outputId": "129e255b-150d-4fc2-a164-a6d835ba023b"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -4462,7 +4462,7 @@
       "metadata": {
         "id": "zNr8kXNU__eC"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -4478,7 +4478,7 @@
         "id": "PW10wkO8AX2H",
         "outputId": "be625beb-03c3-4e04-d75e-1dc8e36c809f"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -4505,7 +4505,7 @@
         "id": "WascMbthAfSw",
         "outputId": "d12ebc89-1674-4576-eae1-f8502e9d5312"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -4531,7 +4531,7 @@
         "id": "F6FvrN3fBlWU",
         "outputId": "8b3b9d24-7e1f-47ab-d325-61d1c2933597"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -4584,7 +4584,7 @@
       "metadata": {
         "id": "bVTdLI_5B7df"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -4600,7 +4600,7 @@
         "id": "lq4fTiKXCD9d",
         "outputId": "c17b8305-8ee4-4358-c739-1482e972a08c"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -4649,7 +4649,7 @@
         "id": "T7aJ3Ew0CyIE",
         "outputId": "44dc2e76-4a63-4e59-d7f0-5044a1debb7e"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -4688,7 +4688,7 @@
       "metadata": {
         "id": "MACJqtD1C-pi"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -4704,7 +4704,7 @@
         "id": "SSD2rzKODzyX",
         "outputId": "21788985-8cfa-41ed-dc5d-ecf8b70458cf"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -4742,7 +4742,7 @@
       "metadata": {
         "id": "5XaMRyWmEJDk"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -4758,7 +4758,7 @@
         "id": "UeQmmOT5EZQ0",
         "outputId": "2c7dc78c-b7f9-472f-de7c-b057267b15c2"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -4800,7 +4800,7 @@
       "metadata": {
         "id": "yY0f7YILEgO4"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -4816,7 +4816,7 @@
         "id": "LC2zHYLbEvri",
         "outputId": "f7a45746-86db-46c3-b5e5-b5aa87b5c69f"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -4911,7 +4911,7 @@
         "id": "hC7fi_AkFM7j",
         "outputId": "90118342-98f9-4428-9c70-570cb0c44db2"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
